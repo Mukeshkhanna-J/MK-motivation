@@ -1,0 +1,27 @@
+img{
+    border:5px dotted whitesmoke;
+    border-radius: 10px;
+    margin-left:25px;
+    }
+
+html{
+    background-color:black;
+    }
+
+h1{
+    color:white;
+    font-family: 'Sedgwick Ave Display', cursive;
+    text-align:center ;
+    width:100%;
+    margin-left:10%;    
+    }
+h2{
+    color:white;
+    text-align:right ;
+}
+
+div{
+    width:50%;
+    margin-left:25%;
+    
+}
